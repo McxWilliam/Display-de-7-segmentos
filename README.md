@@ -3,7 +3,7 @@ Display de 7 segmentos desenvolvido no segundo semestre do curso de Ciência da 
 
 ## Display simples de 7 segmentos que possui algumas funcionalidades de relógio.
 
-## Funcionalidade Desenvolvidas
+## Funcionalidades Desenvolvidas
 * O formato do display foi inspirado em relógios digitais.
 
 * Cronômetro Progressivo;
